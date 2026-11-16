@@ -1,0 +1,50 @@
+
+# Compiled Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Build output
+target/
+build/
+.gradle/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Java runtime files
+hs_err_pid*
+replay_pid*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
